@@ -1,0 +1,37 @@
+git status
+git add testing.py
+git status
+clear
+git log
+clear
+git commit -m
+clear
+git commit -m "added testing file"
+git status
+git log
+clear
+rm testing.py
+git status
+git rstore testing.py
+git restore testing.py
+git log
+clear
+git histoty
+git history
+try  . "c:\Users\Nayan\AppData\Local\Programs\Microsoft VS Code\resources\app\... 
+   2 cd ..
+   3 cd
+   4 cd Nayan
+   5 cd ..
+   6 cd ..
+   7 cd ..
+   8 ls
+   9 cd downloads
+  10 mkdir git-demo-new
+  11 ls
+  12 cd git-demo-new
+  13 ls
+  14 clear
+  15 git clone https://github.com/NAYANDESHMUKH-TECH/github-for-devops-workshop.git     
+  16 ls
+  17 git hisory
