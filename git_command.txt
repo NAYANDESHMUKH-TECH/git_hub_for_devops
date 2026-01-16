@@ -35,3 +35,11 @@ try  . "c:\Users\Nayan\AppData\Local\Programs\Microsoft VS Code\resources\app\..
    git clone https://github.com/NAYANDESHMUKH-TECH/github-for-devops-workshop.git     
    ls
    git hisory
+
+commit 0aee6b0c4e9ef6d8ccb72807cafc2750bcb75116 (HEAD -> main, origin/main)
+Author: paul philips <paulphilips@email.com>
+Date:   Fri Jan 16 08:37:43 2026 +0530
+
+    removed 3
+nothing new added everything alright
+
