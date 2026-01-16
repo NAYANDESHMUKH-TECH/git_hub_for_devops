@@ -19,19 +19,19 @@ clear
 git histoty
 git history
 try  . "c:\Users\Nayan\AppData\Local\Programs\Microsoft VS Code\resources\app\... 
-   2 cd ..
-   3 cd
-   4 cd Nayan
-   5 cd ..
-   6 cd ..
-   7 cd ..
-   8 ls
-   9 cd downloads
-  10 mkdir git-demo-new
-  11 ls
-  12 cd git-demo-new
-  13 ls
-  14 clear
-  15 git clone https://github.com/NAYANDESHMUKH-TECH/github-for-devops-workshop.git     
-  16 ls
-  17 git hisory
+   cd ..
+3 cd
+ cd Nayan
+    cd ..
+    cd ..
+    cd ..
+    ls
+    cd downloads
+   mkdir git-demo-new
+   ls
+   cd git-demo-new
+   ls
+   clear
+   git clone https://github.com/NAYANDESHMUKH-TECH/github-for-devops-workshop.git     
+   ls
+   git hisory
