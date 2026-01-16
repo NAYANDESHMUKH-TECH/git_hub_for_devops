@@ -20,7 +20,7 @@ git histoty
 git history
 try  . "c:\Users\Nayan\AppData\Local\Programs\Microsoft VS Code\resources\app\... 
    cd ..
-3 cd
+ cd
  cd Nayan
     cd ..
     cd ..
