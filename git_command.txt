@@ -47,3 +47,10 @@ nothing new added everything alright
 hii i am trying to pull the code in my local pc
 
 hii now i am trying to push the code
+ 
+ 11 git status
+  12 git add testing.py
+  13 git commit -m "one more commit is added"
+  14 git push origin dev
+  15 git status
+  16 clear
